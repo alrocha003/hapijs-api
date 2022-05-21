@@ -1,0 +1,31 @@
+{
+  "name": "hapijs-api",
+  "version": "1.0.0",
+  "description": "example api use hapijs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrocha003/hapijs-api.git"
+  },
+  "keywords": [
+    "hapijs",
+    "node",
+    "test",
+    "example"
+  ],
+  "author": "Alex Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alrocha003/hapijs-api/issues"
+  },
+  "homepage": "https://github.com/alrocha003/hapijs-api#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "nodemon": "^2.0.16"
+  }
+}
