@@ -28,6 +28,7 @@
     "@hapi/hapi": "^20.2.2",
     "dotenv": "^16.0.1",
     "mongoclient": "^1.0.3",
+    "mongodb": "^4.7.0",
     "nodemon": "^2.0.16"
   }
 }
